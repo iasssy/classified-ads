@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80"
+   height="80"
+   viewBox="0 0 21.166667 21.166666"
+   version="1.1"
+   id="svg4869"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="logo-bazar-jibi-2.svg">
+  <defs
+     id="defs4863" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-127.87188"
+     inkscape:cy="18.952896"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     width="170mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1186"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4866">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-275.83335)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.50323749;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.03885002, 6.03885001999999993;stroke-dashoffset:1.14119995;stroke-opacity:1"
+       id="rect4817"
+       width="20.5548"
+       height="20.5548"
+       x="0.30525717"
+       y="276.25345"
+       rx="0.13573924"
+       ry="0.13573924" />
+    <path
+       style="fill:#9f0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 2.9271376,281.16838 c 2.2313223,0.17397 4.25477,-0.46246 7.9557034,5.44051 L 6.8684718,286.3796 c 0,0 3.8136202,5.59363 4.7025482,10.26083 -1.7048818,0.26385 -8.6434771,0.22031 -8.6913121,-5.16623 0.047353,-10.30582 0,0 0.047353,-10.30582"
+       id="path4829"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#9f0000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 18.202218,276.33795 c -2.568927,1.59406 -4.895273,3.25426 -9.7601235,4.22244 2.5886835,2.29878 4.2032925,4.42589 5.1131725,8.02042 -1.051245,-0.34434 -2.17019,-0.48569 -3.383542,-0.34393 1.422325,2.09102 2.881675,3.29351 4.203215,7.80228 1.664994,-0.74197 4.174912,-1.93368 3.888097,-5.25103 z"
+       id="path4831"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>

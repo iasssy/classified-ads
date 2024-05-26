@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80"
+   height="80"
+   viewBox="0 0 21.166667 21.166666"
+   version="1.1"
+   id="svg4869"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="logo-bazar-jibi.svg">
+  <defs
+     id="defs4863" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="3.9138319"
+     inkscape:cy="18.952896"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     width="170mm"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4866">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-275.83335)">
+    <g
+       id="g4490"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0.13573924"
+         rx="0.13573924"
+         y="276.25345"
+         x="0.30525717"
+         height="20.5548"
+         width="20.5548"
+         id="rect4817"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50323749;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.03885002, 6.03885002;stroke-dashoffset:1.14119995;stroke-opacity:1" />
+      <g
+         transform="matrix(0.51303023,0,0,0.51303023,-78.030382,173.03812)"
+         style="opacity:1;stroke-width:1.9492029"
+         id="g4841">
+        <path
+           style="fill:#ff0000;stroke:none;stroke-width:0.51572657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 157.80263,210.76782 c 4.3493,0.3391 8.29341,-0.90144 15.50728,10.60465 l -7.82482,-0.44693 c 0,0 7.43352,10.90311 9.16622,20.00043 -3.32316,0.51431 -16.84789,0.42943 -16.94113,-10.07003 0.0923,-20.08812 0,0 0.0923,-20.08812"
+           id="path4829"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#ff0000;stroke:none;stroke-width:0.51572657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 187.57686,201.35232 c -5.00736,3.10715 -9.54188,6.34322 -19.02446,8.23039 5.04587,4.4808 8.19307,8.62697 9.96661,15.63343 -2.04909,-0.67119 -4.23014,-0.94671 -6.59521,-0.67039 2.7724,4.07583 5.61697,6.41972 8.19292,15.20823 3.24541,-1.44625 8.13775,-3.76913 7.57869,-10.23532 z"
+           id="path4831"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>
